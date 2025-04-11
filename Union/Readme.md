@@ -1,0 +1,2 @@
+# Union in TypeScript
+In TypeScript, a union type allows a variable to hold values of multiple types. It is defined using the pipe (|) symbol to combine two or more types. Union types are useful when a value can belong to more than one type.
