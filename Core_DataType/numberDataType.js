@@ -1,0 +1,10 @@
+var num = 123;
+var num2 = 123.456;
+var age = 25;
+var pi = 3.14;
+var floatPointNum = 2.23555;
+console.log(num);
+console.log(num2);
+console.log(age);
+console.log(pi);
+console.log(floatPointNum);
